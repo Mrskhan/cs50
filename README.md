@@ -50,4 +50,4 @@ These are not very efficient as I am in a learning phase.
 3. Tideman
 
 ### Short lecture task
-Colratz conjecture
+Collatz conjecture
